@@ -60,7 +60,7 @@ html = """
     </style>
 </head>
 <body>
-    <h1>🔥 LISTA DE BANIDOS - MU 🔥</h1>
+    <h1>🔥 LISTA DE GOLPISTAS - MuAway 🔥</h1>
 
     <div class="container">
 
